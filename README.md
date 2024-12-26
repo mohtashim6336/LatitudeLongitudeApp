@@ -1,30 +1,10 @@
-## Displays_the_current_location
-This Android app displays the current location using the Fused Location Provider.
-
----
-
-## Features
-
-- Shows the current location
-- Allows the user to refresh the location
-- Displays the city name
-
----
-
-## Getting Started
-
-### Prerequisites
-
-- Android Studio
-- Basic knowledge of Kotlin programming language
-
-### Installation
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/rajeshs098/Displays_the_current_location.git
-2. Open the project in Android Studio.
-
-3. Build and run the app on an emulator or a physical device.
-
+# LatitudeLongitude-App
+This Android app showcases location services capabilities. It requests and manages location permissions, then uses the FusedLocationProviderClient to pinpoint the user's current latitude and longitude.
+# Features:
+Location Retrieval: Precisely locates the user's current position.
+City Lookup: Translates coordinates into a user-friendly city name.
+User Interface: Intuitive design with a "Refresh" button for instant updates.
+Permission Handling: Seamlessly requests and manages location permissions.
+# Libraries:
+FusedLocationProviderClient
+Geocoder
