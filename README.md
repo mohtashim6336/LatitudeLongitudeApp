@@ -6,5 +6,5 @@ City Lookup: Translates coordinates into a user-friendly city name.
 User Interface: Intuitive design with a "Refresh" button for instant updates.
 Permission Handling: Seamlessly requests and manages location permissions.
 # Libraries:
-FusedLocationProviderClient
+FusedLocationProviderClient<br>
 Geocoder
