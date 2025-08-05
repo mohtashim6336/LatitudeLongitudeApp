@@ -1,4 +1,4 @@
-# LatitudeLongitude-App
+# LatitudeLongitude App
 This Android app showcases location services capabilities. It requests and manages location permissions, then uses the FusedLocationProviderClient to pinpoint the user's current latitude and longitude.
 # Features:
 Location Retrieval: Precisely locates the user's current position.
