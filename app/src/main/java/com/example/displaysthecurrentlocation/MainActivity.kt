@@ -15,7 +15,7 @@ import java.util.*
 
 class MainActivity : AppCompatActivity() {
 
-    private lateinit var fusedLocationClient: FusedlocationproviderClient
+    private lateinit var fusedLocationClient: Fusedlocationproviderclient
     private lateinit var locationTextView: TextView
     private lateinit var cityTextView: TextView
     private lateinit var refreshButton: Button
